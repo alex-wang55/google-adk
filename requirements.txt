@@ -1,2 +1,3 @@
 google-adk>=2.12
 ddgs
+httpx
